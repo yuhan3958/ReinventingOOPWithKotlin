@@ -4270,3 +4270,36 @@ DSL도 있고,
 뭐.
 
 저도 쉬어야 할 거 아닙니까.
+
+#pagebreak()
+
+#align(center)[
+  #v(1fr)
+
+  #text(size: 18pt, weight: "bold")[
+    Copyright
+  ]
+
+  #v(1em)
+
+  © 2026 Yuhan Kim
+
+  #v(1em)
+
+  This work is licensed under the \
+  #link("https://creativecommons.org/licenses/by-sa/4.0/")[
+    Creative Commons Attribution-ShareAlike 4.0 International
+  ] \
+  (CC BY-SA 4.0).
+
+  #v(1em)
+
+  이 저작물은 *CC BY-SA 4.0*에 따라 이용할 수 있습니다.
+
+  저작자를 표시하는 조건으로 복제, 배포, 수정할 수 있으며, \
+  수정한 저작물 역시 동일한 라이선스로 배포해야 합니다.
+
+  #v(1fr)
+
+  *Reinventing OOP with Kotlin*
+]
