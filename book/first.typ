@@ -4301,5 +4301,5 @@ DSL도 있고,
 
   #v(1fr)
 
-  *Reinventing OOP with Kotlin*
+  #link(https://github.com/yuhan3958/ReinventingOOPWithKotlin)[*Reinventing OOP with Kotlin*]
 ]
